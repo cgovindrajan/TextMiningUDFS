@@ -1,4 +1,4 @@
-package ch.yax.hive.udf.text;
+package com.hive.udf.text;
 
 import org.apache.hadoop.hive.ql.metadata.HiveException;
 import org.junit.Assert;
