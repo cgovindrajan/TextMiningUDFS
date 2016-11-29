@@ -1,4 +1,4 @@
-package com.udf.number;
+package com.hive.udf.number;
 
 import org.apache.hadoop.hive.ql.exec.UDF;
 import org.apache.hadoop.hive.ql.udf.UDFType;
