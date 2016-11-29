@@ -1,4 +1,4 @@
-package ch.yax.hive.udf.util.text;
+package com.hive.udf.util.text;
 
 import java.util.HashMap;
 import java.util.List;
