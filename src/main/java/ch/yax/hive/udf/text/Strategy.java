@@ -1,4 +1,4 @@
-package ch.yax.hive.udf.text;
+package com.hive.udf.text;
 
 import org.apache.lucene.search.spell.JaroWinklerDistance;
 import org.apache.lucene.search.spell.LevensteinDistance;
