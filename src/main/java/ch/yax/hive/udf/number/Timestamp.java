@@ -1,4 +1,4 @@
-package ch.yax.hive.udf.number;
+package com.hive.udf.number;
 
 import java.util.Calendar;
 import java.util.Date;
