@@ -1,4 +1,4 @@
-package ch.yax.hive.udf.util;
+package com.hive.udf.util;
 
 import junit.framework.Assert;
 
