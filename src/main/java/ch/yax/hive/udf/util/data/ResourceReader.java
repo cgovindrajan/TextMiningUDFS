@@ -1,4 +1,4 @@
-package ch.yax.hive.udf.util.data;
+package com.hive.udf.util.data;
 
 import java.io.BufferedReader;
 import java.io.IOException;
